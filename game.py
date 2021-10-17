@@ -100,4 +100,4 @@ while p:
         p = False
         exit()
 else:
-    p= False
+    p = False
