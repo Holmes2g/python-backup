@@ -1,4 +1,4 @@
-#game_data
+#data of game
 from random import randrange
 class data:
     def __init__(self):
